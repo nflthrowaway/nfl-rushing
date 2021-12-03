@@ -1,0 +1,72 @@
+.App {
+  text-align: center;
+  background-color: #0b3281;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  color: rgb(236, 209, 53);
+}
+
+.TableContainer {
+  background-color: #0b3281;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(1px + 2vmin);
+}
+
+.RushingTable {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 3px;
+  border-style: solid;
+  border-color: white;
+  height: 100%;
+}
+
+.RushingTable th {
+  cursor: pointer;
+}
+
+.RushingTableCell {
+  border: 1px;
+  border-style: solid;
+  border-color: white;
+}
+
+.PaginationButtons {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.Toolbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.FilterContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+}
+
+.TotalContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  max-height: 90%;
+  max-width: 100%;
+}

@@ -1,0 +1,84 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders row 1`] = `
+<tr
+  class="RushingTableRow"
+  data-testid="table-row"
+>
+  <td
+    class="RushingTableCell"
+  >
+    Name
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    Team
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    Position
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    2
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    1
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    20
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    10
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    20
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    10
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+  <td
+    class="RushingTableCell"
+  >
+    0
+  </td>
+</tr>
+`;
