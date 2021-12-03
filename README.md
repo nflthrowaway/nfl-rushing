@@ -57,4 +57,5 @@ If you have any questions regarding requirements, do not hesitate to email your 
 1. Make sure you have docker and docker-compose installed
 2. Type `docker compose build`
 3. Type `docker compose up`
-4. Open your web browser and navigate to `http://localhost:8888/`
+4. If you get "Error response from daemon: i/o timeout", set your docker DNS to 8.8.8.8
+5. Open your web browser and navigate to `http://localhost:8888/`
